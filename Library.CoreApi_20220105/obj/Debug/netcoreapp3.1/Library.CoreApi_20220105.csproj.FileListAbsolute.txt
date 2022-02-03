@@ -1,0 +1,304 @@
+F:\IDB_R46_Jashim\WEB API MODULE\Library.CoreApi_20220105\obj\Debug\netcoreapp3.1\Library.CoreApi_20220105.AssemblyInfoInputs.cache
+F:\IDB_R46_Jashim\WEB API MODULE\Library.CoreApi_20220105\obj\Debug\netcoreapp3.1\Library.CoreApi_20220105.AssemblyInfo.cs
+F:\IDB_R46_Jashim\WEB API MODULE\Library.CoreApi_20220105\obj\Debug\netcoreapp3.1\Library.CoreApi_20220105.csproj.CoreCompileInputs.cache
+F:\IDB_R46_Jashim\WEB API MODULE\Library.CoreApi_20220105\obj\Debug\netcoreapp3.1\Library.CoreApi_20220105.MvcApplicationPartsAssemblyInfo.cache
+F:\IDB_R46_Jashim\WEB API MODULE\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\IDB_R46_Jashim\WEB API MODULE\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\appsettings.json
+F:\IDB_R46_Jashim\WEB API MODULE\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Library.CoreApi_20220105.exe
+F:\IDB_R46_Jashim\WEB API MODULE\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Library.CoreApi_20220105.deps.json
+F:\IDB_R46_Jashim\WEB API MODULE\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Library.CoreApi_20220105.runtimeconfig.json
+F:\IDB_R46_Jashim\WEB API MODULE\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Library.CoreApi_20220105.runtimeconfig.dev.json
+F:\IDB_R46_Jashim\WEB API MODULE\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Library.CoreApi_20220105.dll
+F:\IDB_R46_Jashim\WEB API MODULE\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Library.CoreApi_20220105.pdb
+F:\IDB_R46_Jashim\WEB API MODULE\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\IDB_R46_Jashim\WEB API MODULE\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\IDB_R46_Jashim\WEB API MODULE\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\IDB_R46_Jashim\WEB API MODULE\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\IDB_R46_Jashim\WEB API MODULE\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\IDB_R46_Jashim\WEB API MODULE\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\IDB_R46_Jashim\WEB API MODULE\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\IDB_R46_Jashim\WEB API MODULE\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\IDB_R46_Jashim\WEB API MODULE\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\IDB_R46_Jashim\WEB API MODULE\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\IDB_R46_Jashim\WEB API MODULE\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\IDB_R46_Jashim\WEB API MODULE\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\IDB_R46_Jashim\WEB API MODULE\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\IDB_R46_Jashim\WEB API MODULE\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\IDB_R46_Jashim\WEB API MODULE\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\IDB_R46_Jashim\WEB API MODULE\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\IDB_R46_Jashim\WEB API MODULE\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\IDB_R46_Jashim\WEB API MODULE\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\IDB_R46_Jashim\WEB API MODULE\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\IDB_R46_Jashim\WEB API MODULE\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\IDB_R46_Jashim\WEB API MODULE\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\IDB_R46_Jashim\WEB API MODULE\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\IDB_R46_Jashim\WEB API MODULE\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\IDB_R46_Jashim\WEB API MODULE\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\IDB_R46_Jashim\WEB API MODULE\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\IDB_R46_Jashim\WEB API MODULE\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\IDB_R46_Jashim\WEB API MODULE\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\IDB_R46_Jashim\WEB API MODULE\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\IDB_R46_Jashim\WEB API MODULE\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\IDB_R46_Jashim\WEB API MODULE\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\IDB_R46_Jashim\WEB API MODULE\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\IDB_R46_Jashim\WEB API MODULE\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\IDB_R46_Jashim\WEB API MODULE\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\IDB_R46_Jashim\WEB API MODULE\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\IDB_R46_Jashim\WEB API MODULE\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\IDB_R46_Jashim\WEB API MODULE\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\IDB_R46_Jashim\WEB API MODULE\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\IDB_R46_Jashim\WEB API MODULE\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\IDB_R46_Jashim\WEB API MODULE\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\IDB_R46_Jashim\WEB API MODULE\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\IDB_R46_Jashim\WEB API MODULE\Library.CoreApi_20220105\obj\Debug\netcoreapp3.1\staticwebassets\Library.CoreApi_20220105.StaticWebAssets.Manifest.cache
+F:\IDB_R46_Jashim\WEB API MODULE\Library.CoreApi_20220105\obj\Debug\netcoreapp3.1\staticwebassets\Library.CoreApi_20220105.StaticWebAssets.xml
+F:\IDB_R46_Jashim\WEB API MODULE\Library.CoreApi_20220105\obj\Debug\netcoreapp3.1\scopedcss\bundle\Library.CoreApi_20220105.styles.css
+F:\IDB_R46_Jashim\WEB API MODULE\Library.CoreApi_20220105\obj\Debug\netcoreapp3.1\Library.CoreApi_20220105.RazorTargetAssemblyInfo.cache
+F:\IDB_R46_Jashim\WEB API MODULE\Library.CoreApi_20220105\obj\Debug\netcoreapp3.1\Library.CoreApi_20220105.csproj.CopyComplete
+F:\IDB_R46_Jashim\WEB API MODULE\Library.CoreApi_20220105\obj\Debug\netcoreapp3.1\Library.CoreApi_20220105.dll
+F:\IDB_R46_Jashim\WEB API MODULE\Library.CoreApi_20220105\obj\Debug\netcoreapp3.1\Library.CoreApi_20220105.pdb
+F:\IDB_R46_Jashim\WEB API MODULE\Library.CoreApi_20220105\obj\Debug\netcoreapp3.1\Library.CoreApi_20220105.genruntimeconfig.cache
+F:\IDB_R46_Jashim\WEB API MODULE\Library.CoreApi_20220105\obj\Debug\netcoreapp3.1\Library.CoreApi_20220105.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\20220108_H\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Admin\Desktop\20220108_H\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Admin\Desktop\20220108_H\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Library.CoreApi_20220105.StaticWebAssets.xml
+C:\Users\Admin\Desktop\20220108_H\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Library.CoreApi_20220105.exe
+C:\Users\Admin\Desktop\20220108_H\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Library.CoreApi_20220105.deps.json
+C:\Users\Admin\Desktop\20220108_H\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Library.CoreApi_20220105.runtimeconfig.json
+C:\Users\Admin\Desktop\20220108_H\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Library.CoreApi_20220105.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\20220108_H\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Library.CoreApi_20220105.dll
+C:\Users\Admin\Desktop\20220108_H\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Library.CoreApi_20220105.pdb
+C:\Users\Admin\Desktop\20220108_H\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Desktop\20220108_H\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Admin\Desktop\20220108_H\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\20220108_H\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Desktop\20220108_H\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Desktop\20220108_H\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Admin\Desktop\20220108_H\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\Desktop\20220108_H\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\Desktop\20220108_H\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Admin\Desktop\20220108_H\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Admin\Desktop\20220108_H\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Admin\Desktop\20220108_H\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Admin\Desktop\20220108_H\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Admin\Desktop\20220108_H\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\Desktop\20220108_H\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\Desktop\20220108_H\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Admin\Desktop\20220108_H\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\Desktop\20220108_H\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Admin\Desktop\20220108_H\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\Desktop\20220108_H\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Admin\Desktop\20220108_H\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Desktop\20220108_H\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Desktop\20220108_H\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Desktop\20220108_H\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Desktop\20220108_H\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Desktop\20220108_H\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\20220108_H\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\20220108_H\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Desktop\20220108_H\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Desktop\20220108_H\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Desktop\20220108_H\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\20220108_H\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Desktop\20220108_H\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\20220108_H\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\20220108_H\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\Desktop\20220108_H\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\Desktop\20220108_H\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\Desktop\20220108_H\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\20220108_H\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\20220108_H\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Desktop\20220108_H\Library.CoreApi\Library.CoreApi_20220105\obj\Debug\netcoreapp3.1\Library.CoreApi_20220105.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\20220108_H\Library.CoreApi\Library.CoreApi_20220105\obj\Debug\netcoreapp3.1\Library.CoreApi_20220105.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\20220108_H\Library.CoreApi\Library.CoreApi_20220105\obj\Debug\netcoreapp3.1\Library.CoreApi_20220105.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\20220108_H\Library.CoreApi\Library.CoreApi_20220105\obj\Debug\netcoreapp3.1\Library.CoreApi_20220105.AssemblyInfo.cs
+C:\Users\Admin\Desktop\20220108_H\Library.CoreApi\Library.CoreApi_20220105\obj\Debug\netcoreapp3.1\Library.CoreApi_20220105.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\20220108_H\Library.CoreApi\Library.CoreApi_20220105\obj\Debug\netcoreapp3.1\Library.CoreApi_20220105.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\20220108_H\Library.CoreApi\Library.CoreApi_20220105\obj\Debug\netcoreapp3.1\staticwebassets\Library.CoreApi_20220105.StaticWebAssets.Manifest.cache
+C:\Users\Admin\Desktop\20220108_H\Library.CoreApi\Library.CoreApi_20220105\obj\Debug\netcoreapp3.1\Library.CoreApi_20220105.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\Desktop\20220108_H\Library.CoreApi\Library.CoreApi_20220105\obj\Debug\netcoreapp3.1\Library.CoreApi_20220105.csproj.CopyComplete
+C:\Users\Admin\Desktop\20220108_H\Library.CoreApi\Library.CoreApi_20220105\obj\Debug\netcoreapp3.1\Library.CoreApi_20220105.dll
+C:\Users\Admin\Desktop\20220108_H\Library.CoreApi\Library.CoreApi_20220105\obj\Debug\netcoreapp3.1\Library.CoreApi_20220105.pdb
+C:\Users\Admin\Desktop\20220108_H\Library.CoreApi\Library.CoreApi_20220105\obj\Debug\netcoreapp3.1\Library.CoreApi_20220105.genruntimeconfig.cache
+F:\IDB_R46_Jashim\WEB API MODULE\20220108_CL\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\IDB_R46_Jashim\WEB API MODULE\20220108_CL\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\appsettings.json
+F:\IDB_R46_Jashim\WEB API MODULE\20220108_CL\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Library.CoreApi_20220105.exe
+F:\IDB_R46_Jashim\WEB API MODULE\20220108_CL\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Library.CoreApi_20220105.deps.json
+F:\IDB_R46_Jashim\WEB API MODULE\20220108_CL\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Library.CoreApi_20220105.runtimeconfig.json
+F:\IDB_R46_Jashim\WEB API MODULE\20220108_CL\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Library.CoreApi_20220105.runtimeconfig.dev.json
+F:\IDB_R46_Jashim\WEB API MODULE\20220108_CL\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Library.CoreApi_20220105.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220108_CL\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Library.CoreApi_20220105.pdb
+F:\IDB_R46_Jashim\WEB API MODULE\20220108_CL\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220108_CL\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220108_CL\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220108_CL\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220108_CL\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220108_CL\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220108_CL\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220108_CL\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220108_CL\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220108_CL\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220108_CL\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220108_CL\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220108_CL\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220108_CL\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220108_CL\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220108_CL\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220108_CL\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220108_CL\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220108_CL\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220108_CL\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220108_CL\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220108_CL\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220108_CL\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220108_CL\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220108_CL\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220108_CL\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220108_CL\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220108_CL\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220108_CL\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220108_CL\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220108_CL\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220108_CL\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220108_CL\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220108_CL\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220108_CL\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220108_CL\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220108_CL\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220108_CL\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220108_CL\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220108_CL\Library.CoreApi\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220108_CL\Library.CoreApi\Library.CoreApi_20220105\obj\Debug\netcoreapp3.1\Library.CoreApi_20220105.AssemblyInfoInputs.cache
+F:\IDB_R46_Jashim\WEB API MODULE\20220108_CL\Library.CoreApi\Library.CoreApi_20220105\obj\Debug\netcoreapp3.1\Library.CoreApi_20220105.AssemblyInfo.cs
+F:\IDB_R46_Jashim\WEB API MODULE\20220108_CL\Library.CoreApi\Library.CoreApi_20220105\obj\Debug\netcoreapp3.1\Library.CoreApi_20220105.csproj.CoreCompileInputs.cache
+F:\IDB_R46_Jashim\WEB API MODULE\20220108_CL\Library.CoreApi\Library.CoreApi_20220105\obj\Debug\netcoreapp3.1\Library.CoreApi_20220105.MvcApplicationPartsAssemblyInfo.cache
+F:\IDB_R46_Jashim\WEB API MODULE\20220108_CL\Library.CoreApi\Library.CoreApi_20220105\obj\Debug\netcoreapp3.1\staticwebassets\Library.CoreApi_20220105.StaticWebAssets.Manifest.cache
+F:\IDB_R46_Jashim\WEB API MODULE\20220108_CL\Library.CoreApi\Library.CoreApi_20220105\obj\Debug\netcoreapp3.1\staticwebassets\Library.CoreApi_20220105.StaticWebAssets.xml
+F:\IDB_R46_Jashim\WEB API MODULE\20220108_CL\Library.CoreApi\Library.CoreApi_20220105\obj\Debug\netcoreapp3.1\scopedcss\bundle\Library.CoreApi_20220105.styles.css
+F:\IDB_R46_Jashim\WEB API MODULE\20220108_CL\Library.CoreApi\Library.CoreApi_20220105\obj\Debug\netcoreapp3.1\Library.CoreApi_20220105.RazorTargetAssemblyInfo.cache
+F:\IDB_R46_Jashim\WEB API MODULE\20220108_CL\Library.CoreApi\Library.CoreApi_20220105\obj\Debug\netcoreapp3.1\Library.CoreApi_20220105.csproj.CopyComplete
+F:\IDB_R46_Jashim\WEB API MODULE\20220108_CL\Library.CoreApi\Library.CoreApi_20220105\obj\Debug\netcoreapp3.1\Library.CoreApi_20220105.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220108_CL\Library.CoreApi\Library.CoreApi_20220105\obj\Debug\netcoreapp3.1\Library.CoreApi_20220105.pdb
+F:\IDB_R46_Jashim\WEB API MODULE\20220108_CL\Library.CoreApi\Library.CoreApi_20220105\obj\Debug\netcoreapp3.1\Library.CoreApi_20220105.genruntimeconfig.cache
+F:\IDB_R46_Jashim\WEB API MODULE\20220110\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\IDB_R46_Jashim\WEB API MODULE\20220110\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\appsettings.json
+F:\IDB_R46_Jashim\WEB API MODULE\20220110\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Library.CoreApi_20220105.exe
+F:\IDB_R46_Jashim\WEB API MODULE\20220110\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Library.CoreApi_20220105.deps.json
+F:\IDB_R46_Jashim\WEB API MODULE\20220110\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Library.CoreApi_20220105.runtimeconfig.json
+F:\IDB_R46_Jashim\WEB API MODULE\20220110\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Library.CoreApi_20220105.runtimeconfig.dev.json
+F:\IDB_R46_Jashim\WEB API MODULE\20220110\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Library.CoreApi_20220105.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220110\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Library.CoreApi_20220105.pdb
+F:\IDB_R46_Jashim\WEB API MODULE\20220110\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220110\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220110\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220110\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220110\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220110\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220110\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220110\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220110\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220110\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220110\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220110\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220110\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220110\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220110\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220110\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220110\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220110\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220110\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220110\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220110\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220110\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220110\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220110\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220110\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220110\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220110\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220110\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220110\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220110\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220110\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220110\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220110\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220110\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220110\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220110\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220110\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220110\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220110\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220110\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220110\Library.CoreApi_20220105\obj\Debug\netcoreapp3.1\Library.CoreApi_20220105.csproj.AssemblyReference.cache
+F:\IDB_R46_Jashim\WEB API MODULE\20220110\Library.CoreApi_20220105\obj\Debug\netcoreapp3.1\Library.CoreApi_20220105.AssemblyInfoInputs.cache
+F:\IDB_R46_Jashim\WEB API MODULE\20220110\Library.CoreApi_20220105\obj\Debug\netcoreapp3.1\Library.CoreApi_20220105.AssemblyInfo.cs
+F:\IDB_R46_Jashim\WEB API MODULE\20220110\Library.CoreApi_20220105\obj\Debug\netcoreapp3.1\Library.CoreApi_20220105.csproj.CoreCompileInputs.cache
+F:\IDB_R46_Jashim\WEB API MODULE\20220110\Library.CoreApi_20220105\obj\Debug\netcoreapp3.1\Library.CoreApi_20220105.MvcApplicationPartsAssemblyInfo.cache
+F:\IDB_R46_Jashim\WEB API MODULE\20220110\Library.CoreApi_20220105\obj\Debug\netcoreapp3.1\staticwebassets\Library.CoreApi_20220105.StaticWebAssets.Manifest.cache
+F:\IDB_R46_Jashim\WEB API MODULE\20220110\Library.CoreApi_20220105\obj\Debug\netcoreapp3.1\staticwebassets\Library.CoreApi_20220105.StaticWebAssets.xml
+F:\IDB_R46_Jashim\WEB API MODULE\20220110\Library.CoreApi_20220105\obj\Debug\netcoreapp3.1\scopedcss\bundle\Library.CoreApi_20220105.styles.css
+F:\IDB_R46_Jashim\WEB API MODULE\20220110\Library.CoreApi_20220105\obj\Debug\netcoreapp3.1\Library.CoreApi_20220105.RazorTargetAssemblyInfo.cache
+F:\IDB_R46_Jashim\WEB API MODULE\20220110\Library.CoreApi_20220105\obj\Debug\netcoreapp3.1\Library.CoreApi_20220105.csproj.CopyComplete
+F:\IDB_R46_Jashim\WEB API MODULE\20220110\Library.CoreApi_20220105\obj\Debug\netcoreapp3.1\Library.CoreApi_20220105.dll
+F:\IDB_R46_Jashim\WEB API MODULE\20220110\Library.CoreApi_20220105\obj\Debug\netcoreapp3.1\Library.CoreApi_20220105.pdb
+F:\IDB_R46_Jashim\WEB API MODULE\20220110\Library.CoreApi_20220105\obj\Debug\netcoreapp3.1\Library.CoreApi_20220105.genruntimeconfig.cache
+E:\WEB API MODULE\ANGULAR WITH CORE API\ANGULAR WITH CORE API\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\WEB API MODULE\ANGULAR WITH CORE API\ANGULAR WITH CORE API\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\appsettings.json
+E:\WEB API MODULE\ANGULAR WITH CORE API\ANGULAR WITH CORE API\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Library.CoreApi_20220105.StaticWebAssets.xml
+E:\WEB API MODULE\ANGULAR WITH CORE API\ANGULAR WITH CORE API\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Library.CoreApi_20220105.exe
+E:\WEB API MODULE\ANGULAR WITH CORE API\ANGULAR WITH CORE API\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Library.CoreApi_20220105.deps.json
+E:\WEB API MODULE\ANGULAR WITH CORE API\ANGULAR WITH CORE API\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Library.CoreApi_20220105.runtimeconfig.json
+E:\WEB API MODULE\ANGULAR WITH CORE API\ANGULAR WITH CORE API\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Library.CoreApi_20220105.runtimeconfig.dev.json
+E:\WEB API MODULE\ANGULAR WITH CORE API\ANGULAR WITH CORE API\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Library.CoreApi_20220105.dll
+E:\WEB API MODULE\ANGULAR WITH CORE API\ANGULAR WITH CORE API\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Library.CoreApi_20220105.pdb
+E:\WEB API MODULE\ANGULAR WITH CORE API\ANGULAR WITH CORE API\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\WEB API MODULE\ANGULAR WITH CORE API\ANGULAR WITH CORE API\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\WEB API MODULE\ANGULAR WITH CORE API\ANGULAR WITH CORE API\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\WEB API MODULE\ANGULAR WITH CORE API\ANGULAR WITH CORE API\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\WEB API MODULE\ANGULAR WITH CORE API\ANGULAR WITH CORE API\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\WEB API MODULE\ANGULAR WITH CORE API\ANGULAR WITH CORE API\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\WEB API MODULE\ANGULAR WITH CORE API\ANGULAR WITH CORE API\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\WEB API MODULE\ANGULAR WITH CORE API\ANGULAR WITH CORE API\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\WEB API MODULE\ANGULAR WITH CORE API\ANGULAR WITH CORE API\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\WEB API MODULE\ANGULAR WITH CORE API\ANGULAR WITH CORE API\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\WEB API MODULE\ANGULAR WITH CORE API\ANGULAR WITH CORE API\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\WEB API MODULE\ANGULAR WITH CORE API\ANGULAR WITH CORE API\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\WEB API MODULE\ANGULAR WITH CORE API\ANGULAR WITH CORE API\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\WEB API MODULE\ANGULAR WITH CORE API\ANGULAR WITH CORE API\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\WEB API MODULE\ANGULAR WITH CORE API\ANGULAR WITH CORE API\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\WEB API MODULE\ANGULAR WITH CORE API\ANGULAR WITH CORE API\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\WEB API MODULE\ANGULAR WITH CORE API\ANGULAR WITH CORE API\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\WEB API MODULE\ANGULAR WITH CORE API\ANGULAR WITH CORE API\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\WEB API MODULE\ANGULAR WITH CORE API\ANGULAR WITH CORE API\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\WEB API MODULE\ANGULAR WITH CORE API\ANGULAR WITH CORE API\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\WEB API MODULE\ANGULAR WITH CORE API\ANGULAR WITH CORE API\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\WEB API MODULE\ANGULAR WITH CORE API\ANGULAR WITH CORE API\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\WEB API MODULE\ANGULAR WITH CORE API\ANGULAR WITH CORE API\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\WEB API MODULE\ANGULAR WITH CORE API\ANGULAR WITH CORE API\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\WEB API MODULE\ANGULAR WITH CORE API\ANGULAR WITH CORE API\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\WEB API MODULE\ANGULAR WITH CORE API\ANGULAR WITH CORE API\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\WEB API MODULE\ANGULAR WITH CORE API\ANGULAR WITH CORE API\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\WEB API MODULE\ANGULAR WITH CORE API\ANGULAR WITH CORE API\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\WEB API MODULE\ANGULAR WITH CORE API\ANGULAR WITH CORE API\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\WEB API MODULE\ANGULAR WITH CORE API\ANGULAR WITH CORE API\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\WEB API MODULE\ANGULAR WITH CORE API\ANGULAR WITH CORE API\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\WEB API MODULE\ANGULAR WITH CORE API\ANGULAR WITH CORE API\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\WEB API MODULE\ANGULAR WITH CORE API\ANGULAR WITH CORE API\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\WEB API MODULE\ANGULAR WITH CORE API\ANGULAR WITH CORE API\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\WEB API MODULE\ANGULAR WITH CORE API\ANGULAR WITH CORE API\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\WEB API MODULE\ANGULAR WITH CORE API\ANGULAR WITH CORE API\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\WEB API MODULE\ANGULAR WITH CORE API\ANGULAR WITH CORE API\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\WEB API MODULE\ANGULAR WITH CORE API\ANGULAR WITH CORE API\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\WEB API MODULE\ANGULAR WITH CORE API\ANGULAR WITH CORE API\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\WEB API MODULE\ANGULAR WITH CORE API\ANGULAR WITH CORE API\Library.CoreApi_20220105\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\WEB API MODULE\ANGULAR WITH CORE API\ANGULAR WITH CORE API\Library.CoreApi_20220105\obj\Debug\netcoreapp3.1\Library.CoreApi_20220105.csproj.AssemblyReference.cache
+E:\WEB API MODULE\ANGULAR WITH CORE API\ANGULAR WITH CORE API\Library.CoreApi_20220105\obj\Debug\netcoreapp3.1\Library.CoreApi_20220105.GeneratedMSBuildEditorConfig.editorconfig
+E:\WEB API MODULE\ANGULAR WITH CORE API\ANGULAR WITH CORE API\Library.CoreApi_20220105\obj\Debug\netcoreapp3.1\Library.CoreApi_20220105.AssemblyInfoInputs.cache
+E:\WEB API MODULE\ANGULAR WITH CORE API\ANGULAR WITH CORE API\Library.CoreApi_20220105\obj\Debug\netcoreapp3.1\Library.CoreApi_20220105.AssemblyInfo.cs
+E:\WEB API MODULE\ANGULAR WITH CORE API\ANGULAR WITH CORE API\Library.CoreApi_20220105\obj\Debug\netcoreapp3.1\Library.CoreApi_20220105.csproj.CoreCompileInputs.cache
+E:\WEB API MODULE\ANGULAR WITH CORE API\ANGULAR WITH CORE API\Library.CoreApi_20220105\obj\Debug\netcoreapp3.1\Library.CoreApi_20220105.MvcApplicationPartsAssemblyInfo.cache
+E:\WEB API MODULE\ANGULAR WITH CORE API\ANGULAR WITH CORE API\Library.CoreApi_20220105\obj\Debug\netcoreapp3.1\staticwebassets\Library.CoreApi_20220105.StaticWebAssets.Manifest.cache
+E:\WEB API MODULE\ANGULAR WITH CORE API\ANGULAR WITH CORE API\Library.CoreApi_20220105\obj\Debug\netcoreapp3.1\Library.CoreApi_20220105.RazorTargetAssemblyInfo.cache
+E:\WEB API MODULE\ANGULAR WITH CORE API\ANGULAR WITH CORE API\Library.CoreApi_20220105\obj\Debug\netcoreapp3.1\Library.CoreApi_20220105.csproj.CopyComplete
+E:\WEB API MODULE\ANGULAR WITH CORE API\ANGULAR WITH CORE API\Library.CoreApi_20220105\obj\Debug\netcoreapp3.1\Library.CoreApi_20220105.dll
+E:\WEB API MODULE\ANGULAR WITH CORE API\ANGULAR WITH CORE API\Library.CoreApi_20220105\obj\Debug\netcoreapp3.1\Library.CoreApi_20220105.pdb
+E:\WEB API MODULE\ANGULAR WITH CORE API\ANGULAR WITH CORE API\Library.CoreApi_20220105\obj\Debug\netcoreapp3.1\Library.CoreApi_20220105.genruntimeconfig.cache

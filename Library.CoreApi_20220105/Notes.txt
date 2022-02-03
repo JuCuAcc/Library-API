@@ -1,0 +1,31 @@
+﻿
+2022-01-08
+    npm audit fix --force
+
+01.  Write 
+    [EnableCors("AllowOrigin")]
+    in the CategoryController to allow request in 
+    
+
+02. Write this in Startup.cs
+
+  // Cors Add
+            services.AddCors(c => {
+                c.AddPolicy("AllowOrigin", options => options.WithOrigins("http://localhost:4200").AllowAnyHeader().AllowAnyMethod());
+            });
+
+03. Cross-Origin Resource Sharing (CORS) is an HTTP-header based mechanism that allows
+    a server to indicate any origins (domain, scheme, or port) other than
+    its own from which a browser should permit loading resources.
+
+    CORS also relies on a mechanism by which browsers make a "preflight" request to the server
+    hosting the cross-origin resource, in order to check that the server will permit the actual request. 
+
+    In that preflight, the browser sends headers that indicate the HTTP method and
+    headers that will be used in the actual request.
+
+    https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS
+
+04. Write in Startup.cs
+
+            app.UseCors(options => options.WithOrigins("http://localhost:4200").AllowAnyMethod().AllowAnyHeader());
