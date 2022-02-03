@@ -1,0 +1,101 @@
+
+<div class="container" style="width:100%">
+  <form [formGroup]="publisherForm" (ngSubmit)="onFormSubmit()">
+    <div class="card">
+      <div class="card-header bg-info">
+        <h2 class="m-b-0 text-white">
+          <i class="fa fa-plus-circle" style="font-size:20px; margin:5px;"></i><small>Publisher Information</small>
+        </h2>
+      </div>
+      <div>
+
+        <div style="width:50%">
+          <div>
+            <table>
+              <tr>
+                <td class="tbl1">
+                  <div class="demo-full-width">
+                    <input formControlName="publisherName" type="text" placeholder="Publisher Name" class="form-control">
+                  </div>
+                  <div>
+                    <span *ngIf="!publisherForm.get('publisherName').value && publisherForm.get('publisherName').touched"></span>
+                  </div>
+                </td>
+              </tr>
+              <tr>
+                <td class="tbl1">
+                  <div class="demo-full-width">
+                    <input formControlName="contactNo" type="text" placeholder="Contact Number" class="form-control">
+                  </div>
+                  <div>
+                    <span *ngIf="!publisherForm.get('contactNo').value && publisherForm.get('contactNo').touched"></span>
+                  </div>
+                </td>
+              </tr>
+              <tr>
+                <td class="tbl1">
+                  <div class="demo-full-width">
+                    <input formControlName="email" type="text" placeholder="Email" class="form-control">
+                  </div>
+                  <div>
+                    <span *ngIf="!publisherForm.get('email').value && publisherForm.get('email').touched"></span>
+                  </div>
+                </td>
+              </tr>
+              <tr>
+                <td class="form-check">
+                  <input class="form-check-input" type="checkbox" formControlName="isActive" name="IsActive" />
+                  <label class="form-check-label" for="IsActive">
+                    Is Active?
+                  </label>
+                </td>
+              </tr>
+
+              <tr>
+                <td></td>
+                <td class="content-center btn-toolbar">
+                </td>
+                <td>
+                  <p *ngIf="dataSaved" style="color:rgb(0, 128, 0);font-size:20px;font-weight:bold" Class="success" align="left">
+                    {{message}}
+                  </p>
+                </td>
+              </tr>
+
+            </table>
+
+          </div>
+          <div>
+            <button class="btn btn-primary" type="submit" [disabled]="!publisherForm.valid" style="background-color:darkblue; color:white">Submit</button>&nbsp;
+            <button class="btn btn-info" type="reset" (click)="resetForm()">Reset</button>
+          </div>
+        </div>
+
+        <table class="table">
+          <tr ngclass="btn-primary">
+            <th class="tbl2">Publisher Name</th>
+            <th class="tbl2">Contact Number</th>
+            <th class="tbl2">Email</th>
+            <th class="tbl2">Is Active?</th>
+            <th class="tbl2">Edit</th>
+            <th class="tbl2">Delete</th>
+          </tr>
+          <tr *ngFor="let publisher of allPublisher | async">
+            <td class="tbl2">{{publisher.publisherName}}</td>
+            <td class="tbl2">{{publisher.contactNo}}</td>
+            <td class="tbl2">{{publisher.email}}</td>
+            <td class="tbl2">{{publisher.isActive}}</td>
+            <td class="tbl2">
+              <button type="button" class="btn btn-info" (click)="loadPublisherToEdit(publisher.publisherId)">Edit</button>
+            </td>
+            <td class="tbl2">
+              <button type="button" class="btn btn-danger" (click)="deletePublisherById(publisher.publisherId)">Delete</button>
+            </td>
+          </tr>
+        </table>
+      </div>
+    </div>
+
+  </form>
+
+</div>

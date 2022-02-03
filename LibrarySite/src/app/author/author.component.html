@@ -1,0 +1,125 @@
+<div class="container" style="width:100%">
+  <form [formGroup]="authorForm" (ngSubmit)="onFormSubmit()">
+    <div class="card">
+      <div class="card-header bg-info">
+        <h2 class="m-b-0 text-white">
+          <i class="fa fa-plus-circle" style="font-size:20px; margin:5px;"></i><small>Author Information</small>
+        </h2>
+      </div>
+      <div>
+
+        <div style="width:50%">
+          <div>
+            <table>
+              <tr>
+                <td class="tbl1">
+                  <div class="demo-full-width">
+                    <input formControlName="authorName" type="text" placeholder="Author Name" class="form-control">
+                  </div>
+                  <div>
+                    <span *ngIf="!authorForm.get('authorName').value && authorForm.get('authorName').touched"></span>
+                  </div>
+                </td>
+              </tr>
+
+
+              <tr>
+                <td class="tbl1">
+                  <div class="demo-full-width">
+                    <input formControlName="contactNo" type="text" placeholder="Contact No" class="form-control">
+                  </div>
+                  <div>
+                    <span *ngIf="!authorForm.get('contactNo').value && authorForm.get('contactNo').touched"></span>
+                  </div>
+                </td>
+              </tr>
+              <tr>
+                <td class="tbl1">
+                  <div class="demo-full-width">
+                    <input formControlName="doB" type="date" class="form-control">
+                  </div>
+                  <div>
+                    <span *ngIf="!authorForm.get('doB').value && authorForm.get('doB').touched"></span>
+                  </div>
+                </td>
+              </tr>
+              <tr>
+                <td class="tbl1">
+                  <div class="demo-full-width">
+                    <input formControlName="contactNo" type="text" placeholder="Contact No" class="form-control">
+                  </div>
+                  <div>
+                    <span *ngIf="!authorForm.get('contactNo').value && authorForm.get('contactNo').touched"></span>
+                  </div>
+                </td>
+              </tr>
+              <tr>
+                <td class="tbl1">
+                  <div class="demo-full-width">
+                    <input formControlName="email" type="text" placeholder="Email Address" class="form-control">
+                  </div>
+                  <div>
+                    <span *ngIf="!authorForm.get('email').value && authorForm.get('email').touched"></span>
+                  </div>
+                </td>
+              </tr>
+
+              <tr>
+                <td class="form-check">
+                  <input class="form-check-input" type="checkbox" formControlName="isActive" name="IsActive" />
+                  <label class="form-check-label" for="IsActive">
+                    Is Active?
+                  </label>
+                </td>
+              </tr>
+
+              <tr>
+                <td></td>
+                <td class="content-center btn-toolbar">
+                </td>
+                <td>
+                  <p *ngIf="dataSaved" style="color:rgb(0, 128, 0);font-size:20px;font-weight:bold" Class="success" align="left">
+                    {{message}}
+                  </p>
+                </td>
+              </tr>
+
+            </table>
+
+          </div>
+          <div>
+            <button class="btn btn-primary" type="submit" [disabled]="!authorForm.valid" style="background-color:darkblue; color:white">Submit</button>&nbsp;
+            <button class="btn btn-info" type="reset" (click)="resetForm()">Reset</button>
+          </div>
+        </div>
+
+        <table class="table">
+          <tr ngclass="btn-primary">
+            <th class="tbl2">Author Name</th>
+            <th class="tbl2">Date Of Birth</th>
+            <th class="tbl2">Contact No</th>
+            <th class="tbl2">Email Address</th>
+            <th class="tbl2">Is Active?</th>
+            <th class="tbl2">Edit</th>
+            <th class="tbl2">Delete</th>
+          </tr>
+          <tr *ngFor="let author of allAuthor | async">
+            <td class="tbl2">{{author.authorName}}</td>
+            <td class="tbl2">{{author.doB}}</td>
+            <td class="tbl2">{{author.contactNo}}</td>
+            <td class="tbl2">{{author.email}}</td>
+            <td class="tbl2">{{author.isActive}}</td>
+            <td class="tbl2">
+              <button type="button" class="btn btn-info" (click)="loadAuthorToEdit(author.authorId)">Edit</button>
+            </td>
+            <td class="tbl2">
+              <button type="button" class="btn btn-danger" (click)="deleteAuthor(author.authorId)">Delete</button>
+            </td>
+          </tr>
+        </table>
+      </div>
+    </div>
+
+  </form>
+
+</div>
